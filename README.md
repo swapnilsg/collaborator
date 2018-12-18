@@ -1,21 +1,15 @@
-# editor-client
-
+# Collabrator
+```
+A Simple shared document editor
+```
 ## Project setup
 ```
-npm install
+The project has to folders client and server.
+Client folder has the UI code.
+Server folder has the server side code.
 ```
 
-### Compiles and hot-reloads for development
+### Usage
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+Go to the respective folders and follow instruction in readme.
 ```
