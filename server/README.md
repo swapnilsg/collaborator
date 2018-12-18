@@ -9,3 +9,8 @@ npm install
 ```
 nodemon server.js
 ```
+
+### Compiles and run
+```
+node server.js
+```
